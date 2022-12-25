@@ -16,3 +16,4 @@ url_QR = pyqrcode.create(site)
 
 # Create & save the svg file 
 url_QR.png("great.png",scale = 6)
+#fhgjgh
